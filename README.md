@@ -17,8 +17,6 @@ Hello, my name ist Mathias, i have created a range of Discord BOT applications a
  <div>
 
 ----------
-   
-<img align="center" alt="Mathias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VmathiasV&show_icons=true&hide_border=true" />
 
 <p align="center"> 
   Visitor count<br>
