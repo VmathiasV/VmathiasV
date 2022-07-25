@@ -15,3 +15,12 @@ Hello, my name ist Mathias, i have created a range of Discord BOT applications a
 ![VmathiasV github streak](https://github-readme-streak-stats.herokuapp.com/?user=VmathiasV&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
+
+----------
+   
+<img align="center" alt="Mathias's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VmathiasV&show_icons=true&hide_border=true" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/VmathiasV/count.svg" />
+</p>
