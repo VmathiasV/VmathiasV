@@ -2,13 +2,13 @@
 
 
 - ︵‿︵‿︵‿︵‿︵
-- Name • Mathias  )
+- Name • Mathias  
 - ︵‿︵‿︵‿︵‿︵‿︵
-- Residence • Austria )
+- Residence • Austria 
 - ︵‿︵‿︵‿︵‿︵‿︵‿︵
-- Discord • mathias#1337 )
+- Discord • mathias#1337 
 - ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵
-- Hobbys • Coding | Volleyball | Snowboarding  )
+- Hobbys • Coding | Volleyball | Snowboarding  
 - ‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿
 
 - ✘ ☾⚙️☽ ✘
