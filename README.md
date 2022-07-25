@@ -10,13 +10,8 @@ Hello, I am full stack developer, working on multiple open source projects, main
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![VmathiasV github stats](https://github-readme-stats.vercel.app/api?username=VmathiasV&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&theme=radical&include_all_commits=true&count_private=true)
+![VmathiasV github streak](https://github-readme-streak-stats.herokuapp.com/?user=VmathiasV&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
-
------
-Credits: [LachlanDev](https://github.com/LachlanDev)
-
-Last Edited on: 1/10/2021
