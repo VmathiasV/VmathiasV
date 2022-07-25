@@ -1,4 +1,8 @@
-✘ ━━━━━━━━━━━ ☾⚙️☽ ━━━━━━━━━━━✘
+✘ ☾⚙️☽ ✘
+
+
+• asdasd
+• asd asd
 
 ︵‿︵‿︵‿︵‿︵
 Name • Mathias  )
@@ -10,4 +14,4 @@ Discord • mathias#1337 )
 Hobbys • Coding | Volleyball | Snowboarding  )
 ‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿
 
-✘ ━━━━━━━━━━━ ☾⚙️☽ ━━━━━━━━━━━✘
+✘ ☾⚙️☽ ✘
