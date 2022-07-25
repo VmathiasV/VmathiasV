@@ -7,7 +7,7 @@ Hello, I am full stack developer, working on multiple open source projects, main
 
 ## Contact
 <a href="https://www.instagram.com/matze.drip/">![Instagram](https://img.shields.io/badge/matze.drip-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="https://discord.gg/yEcMP8ZwXr">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/mathias#1337?style=for-the-badge&logo=discord&logoColor=white)
+</a> ![Discord](https://img.shields.io/badge/mathias%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
 
