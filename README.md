@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
- <img src="https://camo.githubusercontent.com/8adbfb652013e0d3acf23373d00f533c505df8c61333b01d64e1705c4ef5ce80/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d417263686974656374732b446175676874657226636f6c6f723d3741463739412673697a653d3330266c696e65733d486579212b497427732b41686d6164213b49276d2b612b466c75747465722b446576656c6f7065722e2e2e3b49276d2b616c736f2b4d616368696e652b4c6561726e696e672b456e67696e6565723b416e642b49276d2b612b70726f75642b50616b697374616e692b254630253946253837254235254630253946253837254230" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=7AF79A&amp;size=30&amp;linesHello, my name ist Mathias, i have created a range of Discord BOT applications and i hope to become a Verified Discord Bot Developer one day.;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+%F0%9F%87%B5%F0%9F%87%B0" style="max-width: 100%;">
+Hello, my name ist Mathias, i have created a range of Discord BOT applications and i hope to become a Verified Discord Bot Developer one day
 
 
 -------------------
