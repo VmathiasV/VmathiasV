@@ -3,8 +3,6 @@
 ## About
 Hello, my name ist Mathias, i have created a range of Discord BOT applications and i hope to become a Verified Discord Bot Developer one day.
 
-<img align="right" height="200px" alt="side_sticker" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 -------------------
 
 ### Languages and Tools  
