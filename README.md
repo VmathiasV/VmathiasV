@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello, my name ist Mathias, i have created a range of Discord BOT applications and i hope to become a Verified Discord Bot Developer one day.
+Hello, my name ist Mathias, i have created a range of Discord BOT applications.
 
 -------------------
 
